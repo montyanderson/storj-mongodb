@@ -3,7 +3,7 @@
 
 # storj-mongodb
 
-This project provides a connection between MongoDB and the decentrailed cloud storage network, Storj.  The functions in this tool allow Mongo collections to be streamed to the Storj network, to later be retrieved in BSON format.  Using the first version of the connector framework, this project is provided as-is and without warrenty.
+This project provides a connection between MongoDB and the decentrailed cloud storage network, Storj.  The functions in this tool allow Mongo collections to be streamed to the Storj network, to later be retrieved in BSON format.  Using the first version of the connector framework, this project is provided as-is and without warranty.
 
 ## Initial Set-up
 Make sure your `PATH` includes the `$GOPATH/bin` directory, so that your commands can be easily used [Refer: Install the Go Tools](https://golang.org/doc/install):
