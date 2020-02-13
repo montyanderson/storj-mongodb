@@ -3,7 +3,7 @@
 To build from scratch, [install Go](https://golang.org/doc/install#install).
 
 ```
-go get github.com/utropicmedia/storjmongodb
+go get github.com/utropicmedia/storj-mongodb
 ```
 
 ## Set-up Files
