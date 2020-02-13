@@ -12,8 +12,7 @@ import (
 	"time"
 	"unsafe"
 	"os"
-	"github.com/utropicmedia/mongo"
-	"github.com/utropicmedia/storj"
+	"github.com/utropicmedia/storj-mongodb"
 
 	"github.com/urfave/cli"
 )
